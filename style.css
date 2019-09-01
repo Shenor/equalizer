@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background: #141423;
+    height: 100vh;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.logo{
+    margin: 2px;
+    border-radius: 30px;
+}
+
+h1{
+    cursor: pointer;
+    color: white;
+}
